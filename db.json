@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "id": "5678",
+      "email": "example@example.com",
+      "watchlist": [
+        {
+          "id": "123",
+          "title": "My list 1",
+          "movies": [
+            {
+              "Title": "Tom Cruise: An Eternal Youth",
+              "Year": "2020",
+              "imdbID": "tt13177242",
+              "Type": "movie",
+              "Poster": "https://m.media-amazon.com/images/M/MV5BNmU5ZWQzOTQtMDhhMC00YTIwLTk5MGEtMzVkNDdiNGEyZTVlXkEyXkFqcGdeQXVyMTIzNTI5NTM1._V1_SX300.jpg"
+            },
+            {
+              "Title": "Tom Cruise: The Last Movie Star",
+              "Year": "2023",
+              "imdbID": "tt28429157",
+              "Type": "movie",
+              "Poster": "https://m.media-amazon.com/images/M/MV5BODIyYWVkMzYtYjVhNi00ZDlkLTk5Y2YtZTgyMjEwZWI2YzAyXkEyXkFqcGdeQXVyMTE4NTI5NTA@._V1_SX300.jpg"
+            }
+          ]
+        },
+        {
+          "id": "10000",
+          "title": "hi",
+          "movies": []
+        }
+      ]
+    },
+    {
+      "email": "a@gmail.com",
+      "watchlist": [
+        {
+          "id": "88898.15259645769",
+          "title": "g",
+          "movies": [
+            {
+              "Title": "The Super Mario Bros. Movie",
+              "Year": "2023",
+              "imdbID": "tt6718170",
+              "Type": "movie",
+              "Poster": "https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_SX300.jpg",
+              "bookmarked": true
+            }
+          ]
+        },
+        {
+          "id": "9267",
+          "title": "s",
+          "movies": []
+        },
+        {
+          "id": "7339",
+          "title": "adsds",
+          "movies": []
+        },
+        {
+          "id": "2029",
+          "title": "sdsd",
+          "movies": []
+        },
+        {
+          "id": "3991",
+          "title": "Spiderman",
+          "movies": []
+        },
+        {
+          "id": "4925",
+          "title": "My movies",
+          "movies": []
+        },
+        {
+          "id": "244",
+          "title": "Action",
+          "movies": []
+        },
+        {
+          "id": "6007",
+          "title": "new list",
+          "movies": []
+        }
+      ],
+      "id": "HJX5MSJ"
+    },
+    {
+      "email": "f@gmail.com",
+      "watchlist": [],
+      "id": "vnyaQ-o"
+    },
+    {
+      "id": "9da7",
+      "email": "suman@gmail.com",
+      "watchlist": []
+    },
+    {
+      "id": "d7d0",
+      "email": "sam@gmail.com",
+      "watchlist": []
+    },
+    {
+      "id": "11c1",
+      "email": "slugger@gmail.com",
+      "watchlist": []
+    }
+  ]
+}
